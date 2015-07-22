@@ -3,3 +3,4 @@
 *.rudb*
 build
 RegeneratedTrack.txt
+src/sound.flac
