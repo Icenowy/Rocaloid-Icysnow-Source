@@ -1,4 +1,5 @@
 *~
 *.wav*
 *.rudb*
-
+build
+RegeneratedTrack.txt
